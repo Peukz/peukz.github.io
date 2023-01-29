@@ -1,0 +1,25 @@
+.cabecalho{
+    background-color: #fff;
+    padding: 25px;
+    
+}
+t1{
+    font-size: 25px;
+    color: #000;
+}
+.img-menu{
+    float: right;
+}
+
+.img-foto-index{
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+}
+.botoes{
+  
+}
+body{
+    background: black;
+}
