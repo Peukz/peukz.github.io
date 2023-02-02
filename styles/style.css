@@ -3,7 +3,9 @@ body{
     font-family: PT Sans;
     color:#fff;
     font-size: 25px;
-    margin: 0px;
+    display: block;
+    margin: 35px;
+
 }
 t1{
     font-size: 30px;
@@ -11,36 +13,33 @@ t1{
 }
 .img-photo-index{
     border-radius: 100%;
-    width: 30%;
+    width: 100px;
     margin-right: auto;
     margin-left: auto;
     display: block;
+    
 }
 .container1{
-    background-color: rgba(255, 255, 255, 0.041);    
-    padding-left: 25px;
-    margin-bottom: 5px;
     display: block;
+    background-color: rgba(255, 255, 255, 0.041);
+    padding: 15px;
+    margin-bottom: 25px; 
 }
 .container2{
-    margin: 0px 25px 0px 25px;
     background-color: rgba(255, 255, 255, 0.041);
     display: block;
+    margin: 5px;
 }
 .container3{
-    margin: 0px 25px 25px 25px;
     background-color: rgba(255, 255, 255, 0.041);
 }
 .container4{
-    margin: 25px;
     background-color: rgba(255, 255, 255, 0.041);
 }
 .container5{
-    margin: 25px;
     background-color: rgba(255, 255, 255, 0.041);
 }
 .container6{
-    margin: 25px;
     background-color: rgba(255, 255, 255, 0.041);
 }
 
